@@ -1,0 +1,10 @@
+R-squard: R2 = 1 - SSres / SStot
+
+y^ = b0 + b1X1 + b2X2     ...
+When try to add new variable b3X3 to the model:
+SStot doesn't change
+SSres will decrease or stay the same: SSres = SUM(y1 - yi^)^2
+
+Adjust R2 = 1 - (1 - R^2)((n - 1)/(n - k - 1))
+k: number of independent variables
+n: sample size

@@ -1,0 +1,6 @@
+Predict:    False True
+Actual:
+    False     TN    FP
+    True      FN    TP 
+
+Accuracy Paradox: When FP% or FN% is too much when compare with their TN and TP

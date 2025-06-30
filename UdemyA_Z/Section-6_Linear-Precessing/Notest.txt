@@ -1,0 +1,9 @@
+Mean: average value
+Median: Most value appear
+Standard deviation: Sum(x - mean)**2
+
+Ordinar Least Squares:
+The line in formular of hypothesis(x1, x2) = b0 + b1x1 + b2x2 + ... is minimized
+
+
+numpy array reshape (-1, 1) to make it 2d array with each innter list contain 1 element

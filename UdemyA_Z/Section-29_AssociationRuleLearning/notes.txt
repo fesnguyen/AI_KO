@@ -1,0 +1,6 @@
+Apriori:
+
+Support measures the overall popularity of an itemset.
+Confidence measures the strength of the association between two itemsets.
+Lift measures the strength of the association while considering the independence of the items.
+

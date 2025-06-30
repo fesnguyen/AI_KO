@@ -1,0 +1,6 @@
+UCB (Upper Confidence Bound) algorithm:
+
+Exploration: Trying new actions to learn more about the environment and potential rewards.
+Exploitation: Choosing actions that have historically yielded high rewards.
+Upper Confidence Bound: A value that represents the maximum expected reward for an action, considering both the observed rewards and the uncertainty associated with that action.
+

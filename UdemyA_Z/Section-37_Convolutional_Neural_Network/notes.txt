@@ -1,0 +1,10 @@
+Why called Convolutional Neural Network: Because we need to apply some convolution filter, reducing the size of image before passing it to NN
+
+Steps:
+1. Getting image data => flattering to input of CNN
+2. Apply Convolution Layers which apply some filters (also called 'Kernel") => feature maps
+3. Apply pooling like max-pooling to each feature maps
+4. In some case, we may apply step 2 and/or 3 again (Also know as recurrent network)
+5. Flattering
+6. Add hidden layers
+7. Use gradient descent algorithm (This is automatically performed by library like Tensorflow

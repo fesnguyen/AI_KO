@@ -1,0 +1,10 @@
+df use .iloc() function, not support direct slicing without it
+
+Mean: Average
+Median: Most appear value:
+Std: .
+
+numpy array is faster than pandas dataframe but it can contain complex data type
+
+Spliting the dataset after feature scaling would cause information leakage on the test set which could possibly cause overfitting
+

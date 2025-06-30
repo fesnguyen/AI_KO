@@ -1,0 +1,4 @@
+from sklearn.svm import SVR
+
+Support Vector Machine is fit for non-linear regression
+It needs a Kernel to work like neural network need an activation function :D (Just for comparation)

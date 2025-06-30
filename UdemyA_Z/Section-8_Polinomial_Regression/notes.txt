@@ -1,0 +1,2 @@
+Polynomial is placed in sklearn.preprocessing PolynomialFeatures
+It's preprocessing class apply to X => it fit_transform X to X_poly then use the X_poly for linear regression => Polynomial Regression

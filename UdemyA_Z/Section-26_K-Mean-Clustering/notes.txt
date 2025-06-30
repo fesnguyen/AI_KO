@@ -1,0 +1,11 @@
+Unsupervised learning: Category data that we don't have a label
+
+K-mean: Choose a K (Let's take 2) => random cluster (2 main points) => 
+calculate distance of every data point to the nearest clusters =>
+Choose a better position => repeat until no choice make significant impact to the total distance
+
+How to know how many K is needed?
+Elbow Method: Increase i from 1 to n, if the next added cluster don't significant imppact the distance => Take that K-mean
+
+K-Mean++: Before repeating update clusters in K-Mean, we now add cluster which as far as with the old ones it shall 
+have more chance to be selected, after we have all we need, repeat updating position like K-mean

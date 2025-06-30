@@ -1,0 +1,8 @@
+Data Preprocessing
+
+a. Spliting data
+b. Feature Scaling:
+    Normalization vs Standardization
+
+
+Clustering (v): Separate features

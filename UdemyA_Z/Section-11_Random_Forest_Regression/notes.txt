@@ -1,0 +1,2 @@
+Random Forest Regressor one of Ensemble learning which means combine multiple model then use the the average predicted value of y for stronger prediction, reduce overfiting
+Forest = multiple tree :D

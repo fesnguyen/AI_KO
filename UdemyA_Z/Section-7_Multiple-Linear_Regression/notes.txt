@@ -1,0 +1,16 @@
+6 consideration needed before choosing linear regression model:
+- Linearity: It has a linear relationship between dependent variable y and independent variables X
+- Independence: No autocorrelation (Value of a data point is related to its preious values or subsequent data points)
+- Homoscedasticity: The variance of the errors should be constant across all levels of the independent variables.
+- Multivariate Normality: The errors should be normally distributed.
+- Bonus: Check for the outlier
+
+P-Value: Consider toss a coin 6 time and all 6 are tailed (With probability < p-value 5%) then we sure 95% that the coin is not fair
+
+5 methods to select feature for models:
+1. All-in
+2. Backward Elimination
+3. Forward Selection
+4. Bidirectional Elimination
+5. Score Comparison
+These all called stepwise Regression
