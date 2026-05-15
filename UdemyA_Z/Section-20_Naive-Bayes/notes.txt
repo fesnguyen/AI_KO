@@ -1,1 +1,0 @@
-Naive Bayes is an algorithm which we use fomular P(a | b) = (P(b|a) * P(a)) / P(b)
