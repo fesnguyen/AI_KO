@@ -36,3 +36,12 @@ sudo filefrag -v /swap.img | awk '{if($1=="0:"){print $4}}' | sed 's/\..*//'  :
 llm_download : On Drive
 
 
+
+# Unsloth
+curl -fsSL https://unsloth.ai/install.sh | sh
+
+# HF Cli
+curl -LsSf https://hf.co/cli/install.sh | bash
+
+# Get logs
+journalctl -u ollama --no-pager --follow --pager-end
