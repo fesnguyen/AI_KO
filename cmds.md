@@ -45,3 +45,7 @@ curl -LsSf https://hf.co/cli/install.sh | bash
 
 # Get logs
 journalctl -u ollama --no-pager --follow --pager-end
+
+# Kill a task
+pgrep -af jupyter
+kill <task_id>
